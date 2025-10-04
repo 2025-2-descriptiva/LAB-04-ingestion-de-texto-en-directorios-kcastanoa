@@ -7,6 +7,7 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 
 
 def pregunta_01():
+    
     """
     La información requerida para este laboratio esta almacenada en el
     archivo "files/input.zip" ubicado en la carpeta raíz.
